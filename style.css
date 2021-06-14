@@ -1,0 +1,115 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 50px;
+}
+a{
+    text-decoration: none;
+    color: #ffffff;
+    background-color: red;
+    padding:10px 18px;
+    border-radius: 50px;
+}
+.button, .bootstrap_button, h2{
+    text-align: center;
+}
+.bootstrap_button{
+    margin-top: 100px;
+}
+.js{
+    background-image: linear-gradient(to right,#2C3E50,#4CA1AF);
+}
+.js:hover{
+    background-image: linear-gradient(to left,#2C3E50,#4CA1AF);
+    }
+.morning{
+        background-image: linear-gradient(to right,#fceabb,#f8b500);
+    }
+.morning:hover{
+        background-image: linear-gradient(to left,#fceabb,#f8b500);
+        }
+
+ .look{
+     background-image:linear-gradient(to right,#cb2d3e,#ef473a);
+ }
+ .look:hover{
+    background-image:linear-gradient(to left,#cb2d3e,#ef473a);
+ }
+ .awesome{
+    background-image:linear-gradient(to right,#42275a,#734b6d);
+ }
+ .awesome:hover{
+    background-image:linear-gradient(to left,#42275a,#734b6d);
+ }
+ .gorgeous{
+    background-image:linear-gradient(to right,#3a7bd5,#3a6073);
+ }
+ .gorgeous:hover{
+    background-image:linear-gradient(to left,#3a7bd5,#3a6073);
+ }
+
+.design{
+    background-image:linear-gradient(to right,#FF5F6D,#FFC371);
+ }
+
+ .design:hover{
+    background-image:linear-gradient(to left,#FF5F6D,#FFC371);
+ }
+
+ /* Bootstrap Button Css */
+
+ .primary{
+     background-color:#007bff;
+ }
+ .primary:hover{
+     background-color: #0069D9;
+ }
+.secondary{
+    background-color: #6c757d;
+}
+.secondary:hover{
+    background-color: #5A6268;
+}
+.success{
+    background-color: #28a745;
+}
+.success:hover{
+    background-color: #218838;
+}
+.danger{
+    background-color: #dc3545;
+}
+.danger:hover{
+    background-color: #C82333;
+}
+.warning{
+    background-color: #ffc107;
+}
+.warning:hover{
+    background-color: #E0A800;
+}
+.info{
+    background-color: #17a2b8;
+}
+.info:hover{
+    background-color: #138496;
+}
+.light{
+    background-color: #f8f9fa;
+    color: #6c757d;
+}
+.light:hover{
+    background-color: #E2E6EA;
+}
+.dark{
+    background-color: #343a40;
+}
+.dark:hover{
+    background-color: #23272B;
+}
+.link{
+    background-color: #fff;
+    color: #007bff;
+}
+.link:hover{
+    text-decoration: underline;
+}
